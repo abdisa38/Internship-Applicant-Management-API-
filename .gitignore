@@ -17,3 +17,9 @@ dist-tsc/
 # Editor
 .vscode/
 .idea/
+
+# AI Assistants
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
