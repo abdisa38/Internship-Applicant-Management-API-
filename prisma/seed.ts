@@ -27,8 +27,7 @@ async function main() {
   const applicants = [
     {
       firstName: 'Alice',
-      lastName: 'Smith',
-      email: 'alice.smith@example.com',
+     a        email: 'alice.smith@example.com',
       phone: '123-456-7890',
       track: 'Frontend Development',
       status: 'Pending',
