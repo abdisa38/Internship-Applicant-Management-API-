@@ -1,3 +1,19 @@
 node_modules
 
 /generated/prisma
+
+# Build
+dist/
+dist-tsc/
+
+# Environment
+.env
+*.env
+
+# SQLite
+*.db
+*.db-journal
+
+# Editor
+.vscode/
+.idea/
